@@ -19,7 +19,7 @@ public class Solution {
 	public static void main(String[] args) {
 		result("abcba");
 		result("argentinamanitnegra");
-		result("Sapalsaritadedatiraslapas");	//s.toLowerCase() ir ieviests tieši šī piemēra dēļ
+		result("Sapalsaritadedatiraslapas");	//s.toLowerCase() is implemented because of this example
 		result("abccb");
 		result("stirna");
 		result("mammam");	//not mentioned in examples but I implemented even palindromes as well, not just odd ones
